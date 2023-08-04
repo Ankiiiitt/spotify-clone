@@ -4,8 +4,9 @@ This project is a responsive clone of Spotify's web application built using only
 
 ## Project Preview
 
-![image]
-![image]
+![Screenshot (102)](https://github.com/Ankiiiitt/spotify-clone/assets/89211387/243f986d-7cb8-450a-84d1-697bb7fe74b7)
+![Screenshot (101)](https://github.com/Ankiiiitt/spotify-clone/assets/89211387/cc4f4405-9b7e-442f-88fd-07603cab0f3a)
+
 
 
 
